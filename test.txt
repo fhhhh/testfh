@@ -1,7 +1,8 @@
 aaa;
 bbb;
 master +1;
-eee;
+eee
+master2;
 ccc;
 ddd;
 dev2 +1;
